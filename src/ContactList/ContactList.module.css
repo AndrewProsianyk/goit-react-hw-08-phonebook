@@ -1,26 +1,28 @@
 .contactList {
   display: block;
-  background-color: rgb(69, 221, 115);
-  width: 300px;
+  /* background-color: rgb(69, 221, 115); */
+  width: 350px;
   list-style: none;
   padding: 15px;
   border-radius: 3px;
 }
 .listItem {
   display: flex;
+  color: white;
+  font-size: 22px;
+  /* outline: 1px solid red; */
 }
 .listItem:not(:last-child) {
   margin-bottom: 8px;
 }
 .button {
   display: block;
-  background-color: rgb(119, 247, 136);
   margin-left: auto;
   width: 20px;
   height: 20px;
   padding: 0px 0px 1px 1px;
   border-radius: 50%;
-  border: 1px solid green;
+  border: 1px solid rgb(125, 39, 136);
 }
 .number {
   margin-left: 15px;
@@ -30,4 +32,8 @@
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+.noContactsText {
+  color: rgb(255, 255, 255);
+  font-size: 36px;
 }

@@ -32,7 +32,7 @@ const ContactList = () => {
         );
     } else {
         return (
-            <p>No contacts yet.</p>
+            <p className={styles.noContactsText}>No contacts yet.</p>
         )
     }
 

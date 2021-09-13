@@ -12,7 +12,7 @@
 }
 .activeLink {
   composes: link;
-  color: rgb(255, 0, 0);
+  color: rgb(125, 39, 136);
 }
 .authBar {
   display: flex;
