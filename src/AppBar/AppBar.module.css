@@ -1,0 +1,7 @@
+.header {
+  width: 100%vh;
+  height: 57px;
+  padding: 0px 50px;
+  /* outline: 1px red solid; */
+  background-color: black;
+}

@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  pad: 0;
+  min-height: 100vh;
+  background-image: url(./background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  backdrop-filter: blur(10px);
+}

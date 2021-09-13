@@ -7,6 +7,7 @@ import PublicRoute from './PublicRoute';
 import PrivateRoute from './PrivateRoute';
 import authSelectors from './redux/auth/auth-selectors';
 import authOperations from '../src/redux/auth/auth-operations';
+import './App.module.css'
 
 const HomeView = lazy(() => import('./Views/HomeView'));
 const RegistrationView = lazy(() => import('./Views/RegistrationView'));
