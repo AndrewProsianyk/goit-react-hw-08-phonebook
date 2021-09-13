@@ -1,2 +1,0 @@
-(this["webpackJsonpgoit-react-hw-08-phonebook"]=this["webpackJsonpgoit-react-hw-08-phonebook"]||[]).push([[6],{85:function(t,c,e){"use strict";e.r(c),e.d(c,"default",(function(){return o}));e(0);var n=e.p+"static/media/Cat.585000cc.jpg",i=e(1);function o(){return Object(i.jsx)(i.Fragment,{children:Object(i.jsx)("img",{src:n,alt:"asd",width:"600"})})}}}]);
-//# sourceMappingURL=6.dd9149f8.chunk.js.map
